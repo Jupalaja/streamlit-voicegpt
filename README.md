@@ -11,7 +11,7 @@ This repository contains a Python script that creates an AI assistant using Open
 To clone this repository, run the following command in your terminal:
 
 ```
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Jupalaja/streamlit-voicegpt.git
 ```
 
 ------------
